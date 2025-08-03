@@ -1,6 +1,11 @@
 # sysauth
 sysauth is a simple authentication popup<br>
 
+![preview](https://github.com/System64fumo/sysauth/blob/main/preview.gif "preview")
+
+[![Packaging status](https://repology.org/badge/vertical-allrepos/sysauth.svg)](https://repology.org/project/sysauth/versions)
+
+
 > [!NOTE]
 > This is still W.I.P<br>
 
