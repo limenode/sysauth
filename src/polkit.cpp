@@ -180,7 +180,7 @@ static void session_show_error_cb(PolkitAgentSession* session,
 	};
 	
 	//session_data* data = static_cast<session_data*>(user_data);
-	std::fprintf(stderr, text ? text : "Authentication error");
+	std::fprintf(stderr, "%s", text ? text : "Authentication error");
 }
 
 static void initiate_authentication_cb(PolkitAgentListener* listener,
